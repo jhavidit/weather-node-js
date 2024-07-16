@@ -1,0 +1,13 @@
+body{
+    color: #333333;
+    font-family: Arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+header{
+    margin: 0 auto;
+    padding: 0 16px;
+    margin-top: 16px;
+}
